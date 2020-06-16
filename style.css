@@ -92,6 +92,7 @@ ul.introduce > li{
   position: absolute;
   left:0;
   bottom:0;
+  left:0;
 }
 
 .name-container > .name-box > p > span:nth-child(2){
