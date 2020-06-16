@@ -90,6 +90,7 @@ ul.introduce > li{
 
 .name-container > .name-box > p > span{
   position: absolute;
+  left:0;
   bottom:0;
 }
 
@@ -183,6 +184,7 @@ ul.introduce > li{
 
 .specialty-block > p:nth-child(1){
   color:#2e2e2e;
+  text-align: left;
 }
 
 .character > p:nth-child(2){
@@ -204,7 +206,7 @@ ul.introduce > li{
   position: absolute;
   top:-59px;
   width:30%;
-  margin-left:35%;
+  left:450px;
 }
 
 .photo-container > .photo{
